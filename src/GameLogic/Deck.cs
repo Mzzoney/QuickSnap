@@ -56,7 +56,7 @@ namespace CardGames.GameLogic
 		{
             for (int i = 0; i < 52; i++)
             {
-                if (_cards[i].FaceUp) _cards[i].TurnOVer();
+                if (_cards[i].FaceUp) _cards[i].TurnOver();
                                 
             }
 
